@@ -10,7 +10,7 @@ This repository contains my final project for CS 330, a 3D desk workspace built 
 **Files in this repository**
 
 - `7-1_FinalProjectMilestones.zip`: the 3D scene, including the Visual Studio project, the source code, the shaders, the textures, and the built executable.
-- `Design Decisions Final.docx`: a written explanation of my development choices, the navigation controls, and the custom functions in the program.
+- `Design Decisions.docx`: a written explanation of my development choices, the navigation controls, and the custom functions in the program.
 
 ## Reflection
 
